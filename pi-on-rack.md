@@ -19,6 +19,6 @@ I used Blender for this project. And used [Boolean](https://docs.blender.org/man
 I have plans for dual mount, right-mount and full 1U mount, please look forward to it! \
 \
 Special thanks to [TrasteTh](https://www.thingiverse.com/trasteth/designs) for the [Raspberry Pi 4 3D file](https://www.thingiverse.com/thing:3747610/files)! [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
-## Renders
+### Renders
 
 [pi-on-rack](https://github.com/Colgrave34/pi-on-rack) © 2022 is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 
