@@ -20,6 +20,5 @@ I have plans for dual mount, right-mount and full 1U mount, please look forward 
 \
 Special thanks to [TrasteTh](https://www.thingiverse.com/trasteth/designs) for the [Raspberry Pi 4 3D file](https://www.thingiverse.com/thing:3747610/files)! [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 ## Renders
-![left-single1](https://user-images.githubusercontent![left-single2](https://user-images.githubusercontent.com/31970387/173163517-f0c0c087-ac4e-457d-9e46-5c31212de3b5.png)
-.com/31970387/173163516-54c87397-b669-4c74-aa3d-cc444d2bdef8.png)![left-single0](https://user-images.githubusercontent.com/31970387/173163520-62daa747-0ef3-4467-9c89-d08931672788.png)
+
 [pi-on-rack](https://github.com/Colgrave34/pi-on-rack) © 2022 is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 
