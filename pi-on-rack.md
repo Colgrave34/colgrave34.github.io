@@ -9,6 +9,7 @@ nav_order: 1
 #### Just like the name, this is a Raspberry Pi rackmount. 
 ### This project has not been tested! Use at your own risk! 
 This project is specifically built for Raspberry Pi 4 with official PoE HAT. No guarantee it will work for Raspberry Pi 3b+ or other HATs. \
+I use m2.5 hex standoffs (m2.5*4+4)
 \
 [Github Link](https://github.com/Colgrave34/pi-on-rack){: .btn } \
 [.stl file](https://github.com/Colgrave34/pi-on-rack/blob/main/left-mount/left-single/left-single.stl){: .btn .btn-blue } \
