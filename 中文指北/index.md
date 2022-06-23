@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 中文指北
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 # 中文指北
