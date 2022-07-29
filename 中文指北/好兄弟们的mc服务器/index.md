@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 教程
+title: 好兄弟们的mc服务器
 nav_order: 1
 parent: 中文指北
 has_children: true
