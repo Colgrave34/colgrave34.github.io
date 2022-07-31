@@ -77,8 +77,8 @@ has_children: true
 卸载老版安装新版，记得重启
 
 ### Optifine
-**服务器不支持Optifine（暮色森林MOD不支持）**
-Optifine可以Rubidium和Oculus代替，两个加起来效果是和Optifine一样的
+**服务器不支持 Optifine (暮色森林MOD不支持)**
+Optifine 可以 Rubidium 和 Oculus 代替，两个加起来效果是和 Optifine 一样的
 
 ## MOD指南
 ### Inventory Sorter (一键整理)
@@ -87,7 +87,8 @@ Optifine可以Rubidium和Oculus代替，两个加起来效果是和Optifine一�
 ### 小地图设置
 ![image](https://user-images.githubusercontent.com/31970387/182047079-1d2ff9e0-3aee-49c4-aae4-00fb566e7203.png)
 #### 更改小地图形状
-回到`主界面 ---> Mods --->` 找到左边列表里的 `Xaero's Minimap ---> Config ---> View ---> Settings ---> Shape`
+回到`主界面 ---> Mods --->` \
+找到左边列表里的 `Xaero's Minimap ---> Config ---> View ---> Settings ---> Shape`
 #### 小地图锁定向北
 `主界面 ---> Mods ---> Xaero's Minimap ---> Config ---> View ---> Settings ---> Lock Minimap North`
 
