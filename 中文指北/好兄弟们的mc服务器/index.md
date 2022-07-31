@@ -47,7 +47,7 @@ has_children: true
 [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) 光影必装 \
 [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders) 光影包 \
 可装可不装，看自己情况
-光影指南在[这里]()
+光影指南在[这里](https://colgrave34.github.io/%E4%B8%AD%E6%96%87%E6%8C%87%E5%8C%97/%E5%A5%BD%E5%85%84%E5%BC%9F%E4%BB%AC%E7%9A%84mc%E6%9C%8D%E5%8A%A1%E5%99%A8/#%E5%85%89%E5%BD%B1%E5%AE%89%E8%A3%85)
 
 **其他MOD请勿安装，会与服务器冲突**
 
@@ -67,7 +67,8 @@ has_children: true
 服务器名称随意填就好了，服务器地址是服务器IP，不知道的去群里要
 
 # 常见问题
-**游戏启动时，任何MOD更新请通知我**
+
+**MOD更新请通知我**
 
 ## 游戏打不开看这里
 ### Java
