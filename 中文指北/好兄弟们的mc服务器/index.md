@@ -42,7 +42,7 @@ has_children: true
 ![Screenshot 2022-07-29 122134](https://user-images.githubusercontent.com/31970387/181825525-9461b4c5-5c02-4a53-87ad-cf75cee911e9.png)
 成功添加MOD：
 ![Screenshot 2022-07-29 122142](https://user-images.githubusercontent.com/31970387/181821944-4c9bb444-1b42-4a7a-a68a-e1cff45edb2c.png)
-这里有三个选装MOD：
+这里有三个选装MOD： \
 [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) 提高性能，增加帧数 \
 [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) 光影必装 \
 [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders) 光影包 \
