@@ -29,12 +29,11 @@ has_children: true
 
 **现阶段为了兼容性和稳定性，服务器游戏版本是`1.18.2`，Forge版本`40.1.59`**
 
-选择游戏版本`1.18.2`，Forge选择安装`40.1.59`
+选择游戏版本`1.18.2`，Forge选择安装`40.1.59` \
+其他都不要安装
 ![Screenshot 2022-07-29 122014](https://user-images.githubusercontent.com/31970387/181821829-c2496f52-5bb3-4e3c-9306-a0fe70321ca3.png)
 安装界面：
 ![Screenshot 2022-07-29 122043](https://user-images.githubusercontent.com/31970387/181821726-3e85900c-f0d5-43d8-a42b-a8842bc7873b.png)
-安装完成：
-![Screenshot 2022-07-29 122055](https://user-images.githubusercontent.com/31970387/181821857-eb4efcc0-531b-4ee6-aefc-7670e1cdd5d7.png)
 
 ## 4. 安装MOD
 游戏安装完成，现在回到主界面，点击左手边`游戏 ---> 1.18.2 ---> 模组管理 ---> 添加模组`
@@ -44,11 +43,11 @@ has_children: true
 成功添加MOD：
 ![Screenshot 2022-07-29 122142](https://user-images.githubusercontent.com/31970387/181821944-4c9bb444-1b42-4a7a-a68a-e1cff45edb2c.png)
 这里有三个选装MOD：
-[Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)， [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus)和[BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders) \
-可装可不装，看自己情况。Rubidium建议都装 \
-Rubidium提高性能，增加帧数 \
-Oculus装光影必装（以MOD模式安装） \
-BSL Shaders光影水反（进游戏设置里安装），已经在选装目录里，也可以[这里下载](https://www.curseforge.com/minecraft/customization/bsl-shaders/download/3752138)
+[Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium) 提高性能，增加帧数 \
+[Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus) 光影必装 \
+[BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders) 光影包 \
+可装可不装，看自己情况
+光影指南在[这里]()
 
 **其他MOD请勿安装，会与服务器冲突**
 
@@ -88,6 +87,8 @@ Optifine可以Rubidium和Oculus代替，两个加起来效果是和Optifine一�
 
 
 ### 光影安装
+以MOD模式安装Rubidium和Oculus
+BSL
 
 
 ### 材质包安装
