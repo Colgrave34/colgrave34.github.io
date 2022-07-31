@@ -108,11 +108,11 @@ BSL
 4. [FallingTree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 5. [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 6. [Just Enough Items (JEI)](https://www.curseforge.com/minecraft/mc-mods/jei)
-7. [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims)
+7. [Open Parties and Claims](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims) ---> 正式服添加
 8. [Traveler's Backpack](https://www.curseforge.com/minecraft/mc-mods/travelers-backpack)
 9. [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 10. [Xaero's World Map](https://chocolateminecraft.com/worldmap.php)
-11. [Xaero's Minimap](https://chocolateminecraft.com/minimap2.php) ---> [FAIR-PLAY VERSION](https://chocolateminecraft.com/minimap2.php)
+11. [Xaero's Minimap](https://chocolateminecraft.com/minimap2.php) ---> 正式服更改为[FAIR-PLAY VERSION](https://chocolateminecraft.com/minimap2.php)
 
 ## 选装
 1. [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium)
