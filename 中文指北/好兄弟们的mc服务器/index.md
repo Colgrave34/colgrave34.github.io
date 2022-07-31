@@ -84,16 +84,18 @@ Optifine可以Rubidium和Oculus代替，两个加起来效果是和Optifine一�
 ### Inventory Sorter (一键整理)
 鼠标中键整理，滚轮滚动依次放入拿出1个单位
 
-### 更改小地图形状
-
+### 小地图设置
+![image](https://user-images.githubusercontent.com/31970387/182047079-1d2ff9e0-3aee-49c4-aae4-00fb566e7203.png)
+#### 更改小地图形状
+回到`主界面 ---> Mods --->` 找到左边列表里的 `Xaero's Minimap ---> Config ---> View ---> Settings ---> Shape`
+#### 小地图锁定向北
+`主界面 ---> Mods ---> Xaero's Minimap ---> Config ---> View ---> Settings ---> Lock Minimap North`
 
 ### 光影安装
-以MOD模式安装Rubidium和Oculus
-BSL
-
-
-### 材质包安装
-
+以MOD模式安装 `Rubidium` 和 `Oculus`
+![Screenshot 2022-07-31 175242](https://user-images.githubusercontent.com/31970387/182047053-640f832d-c6b2-4bc7-ab84-45ab2a2e83c7.png)
+进入游戏后， `设置 ---> 视频设置 ---> 光影包` 之后拖进来就行了
+![Screenshot 2022-07-31 175546](https://user-images.githubusercontent.com/31970387/182047058-dbf821a8-2312-43a2-a6c5-59080f4942b6.png)
 
 ### 皮肤
 皮肤需要在启动器中设置
