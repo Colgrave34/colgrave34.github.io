@@ -20,7 +20,7 @@ has_children: true
 ## 2. Hello Minecraft! Launcher
 安装HMCL启动器 \
 包里有，直接运行 \
-有条件的同学可以直接去官方[Github](https://github.com/huanghongxun/HMCL)下载，[官网](https://hmcl.huangyuhui.net/)下载打不开... 
+网速好的同学可以直接去官方[Github](https://github.com/huanghongxun/HMCL)下载，[官网](https://hmcl.huangyuhui.net/)下载打不开... 
 
 ## 3. 运行及安装游戏
 打开HMCL大概是这个样子的
